@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aracelis!
 - 👀 I’m interested in machine learning and cloud computing 
-- 🌱 I’m currently majoring in Computer Science (senior)
+- 🌱 I’m currently learning AWS and TensorFlow
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 reach out at aracelis.alvar@gmail.com
 
